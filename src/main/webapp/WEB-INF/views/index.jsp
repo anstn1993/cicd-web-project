@@ -7,6 +7,7 @@
     <h1>${msg}</h1>
     <h1>Hi, there</h1>
     <h1>I'm Mun Soo Kim</h1>
+    <h1>I'm practicing ci/cd</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 4.0</h3>
 </body>
